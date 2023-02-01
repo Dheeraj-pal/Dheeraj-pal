@@ -107,13 +107,13 @@
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile/profile-night-rainbow.svg)
+<!--  ![](./profile/profile-night-rainbow.svg) -->
  
-<!--  <div align="center">
+ <div align="center">
   
   ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
   
-</div> -->
+</div>
 
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-pal&show_icons=true&theme=highcontrast" />
