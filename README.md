@@ -38,9 +38,10 @@
 <img align='left' height='160' style="margin-left:20px" src='gifs/programmer.gif' alt='Skills'>
 
 <br>
-<h2>Skills</h2>
+<h2 align="right">Skills</h2>
 
 
+ <div align="right" margin:"40px">
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
@@ -68,8 +69,12 @@
    <a href="https://www.gnu.org/software/bash/">
     <img src="https://skillicons.dev/icons?i=bash" />
   </a>
+ </div>
   
-  <a href="https://github.com/">
+  <br>
+  
+  <div align="right">
+ <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
@@ -96,6 +101,7 @@
   <a href="https://www.google.com/">
     <img src="https://skillicons.dev/icons?i=ps" />
   </a>
+ </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
