@@ -39,16 +39,62 @@
 <br>
 <h2>Skills</h2>
 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,bootstrap,bash" />
+
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
-</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,netlify,ps" />
+  
+   <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-</p>
+  
+   <a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  
+   <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  
+   <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  
+   <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
+  
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://nodejs.org/en/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  
+  <a href="https://www.netlify.com/">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+  
+  <a href="https://replit.com/">
+    <img src="https://skillicons.dev/icons?i=replit" />
+  </a>
+  
+  <a href="https://www.adobe.com/in/products/photoshop.html">
+    <img src="https://skillicons.dev/icons?i=ps" />
+  </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
@@ -70,3 +116,6 @@
  
  
  </details>
+
+<!-- <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,bootstrap,bash" />
+<img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,netlify,ps" /> -->
