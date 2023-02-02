@@ -92,7 +92,7 @@
     <img src="https://skillicons.dev/icons?i=replit" />
   </a>
   
-  <a href="https://www.adobe.com/in/products/photoshop.html">
+  <a href="https://www.adobe.com/">
     <img src="https://skillicons.dev/icons?i=ps" />
   </a>
 
