@@ -93,9 +93,9 @@
     <img src="https://skillicons.dev/icons?i=replit" />
   </a>
   
-  <a href="https://www.adobe.com/">
+<!--   <a href="https://www.adobe.com/">
     <img src="https://skillicons.dev/icons?i=ps" />
-  </a>
+  </a> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
