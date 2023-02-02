@@ -20,15 +20,15 @@
 <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
-<!-- [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] -->
+<!-- [![LinkedIn][2.2]][2] [![Telegram][4.2]][4] -->
+[![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-<!-- [3.2]: https://s4.uupload.ir/files/instagram_6djz.png -->
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [2]: https://www.linkedin.com/in/dheerajpal19/
-<!-- [3]: https://www.instagram.com/be.dheeraj/ -->
+[3]: https://www.instagram.com/be.dheeraj/
 [4]: https://telegram.me/Dheerajpal19
 
 
