@@ -28,7 +28,7 @@
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [2]: https://www.linkedin.com/in/dheerajpal19/
-[3]: https://www.instagram.com/be.dheeraj/
+[3]: https://www.instagram.com/be.dheeraj
 [4]: https://telegram.me/Dheerajpal19
 
 
