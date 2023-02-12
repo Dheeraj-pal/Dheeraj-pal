@@ -14,7 +14,7 @@
 - 🌱 All of my projects are available at [Portfolio](https://dheeraj-pal.github.io/)
 - 📫 How to reach me **dheeraj.pal19@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17kbXv9IRArX26dObGs4mIl_FxLO3XYXs/view?usp=sharing)
-- ⚡ Fun fact **I know how to fly**
+- ⚡ Fun fact **I know how to make a bug fly**
 <img align='right' height='160' style="margin-right:20px" src='gifs/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
